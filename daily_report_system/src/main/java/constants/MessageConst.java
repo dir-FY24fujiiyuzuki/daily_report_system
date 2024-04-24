@@ -33,6 +33,7 @@ public enum MessageConst {
      * コンストラクタ
      */
     private MessageConst(final String text) {
+        this.text=text;
     }
     
     /**

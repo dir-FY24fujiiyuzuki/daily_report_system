@@ -55,9 +55,10 @@ public enum ForwardConst{
      * コンストラクタ
      */
     
-    private FoewardConst(final String text) {
-         this.text= text;
-         
+    private ForwardConst(final String text) {
+        this.text = text;
+    }
+    
          /**
           * 値(文字列)取得
           */
@@ -72,4 +73,3 @@ public enum ForwardConst{
     
     
   
-}

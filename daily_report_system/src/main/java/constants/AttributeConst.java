@@ -56,7 +56,7 @@ package constants;
     
     private AttributeConst(final Integer i){
         this.text= null;
-        this i= i;
+        this.i=i;
     }
     
     
